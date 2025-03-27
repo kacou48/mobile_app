@@ -1,0 +1,2 @@
+C:/Users/LENO PRO/Desktop/tadia/tadiagoFront/tadiago/android/app/.cxx/Debug/3u1k4i1o/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/LENO PRO/Desktop/tadia/tadiagoFront/tadiago/android/app/.cxx/Debug/3u1k4i1o/arm64-v8a/CMakeFiles/rebuild_cache.dir
